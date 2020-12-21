@@ -1,2 +1,2 @@
 # ncursesPyMenu
-An sample for Python Menu with ncurses
+A sample for Python Menu with ncurses
